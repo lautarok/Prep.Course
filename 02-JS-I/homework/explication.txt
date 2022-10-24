@@ -1,0 +1,19 @@
+Variables
+---------------------------
+Las variables son valores que se guardan para ser reutilizados, estas cuentan con un identificador que sirve como llave para acceder a dicho valor
+
+Strings
+---------------------------
+Las cadenas de texto (strings) son un tipo de datos que solo admite texto
+
+Funciones, argumentos y valores de retorno
+---------------------------
+Las funciones son objetos invocables que pueden recibir uno o mas argumentos (o ninguno) y retornar un valor
+
+Declaraciones if
+---------------------------
+Las declaraciones "if" son instrucciones que sirven para tomar decisiones
+
+Valores booleanos
+---------------------------
+Al igual que en las cadenas de texto, los valores booleanos son un tipo de datos que admite solo 2 valores: true & false (verdadero o falso)
